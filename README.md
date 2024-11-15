@@ -5,3 +5,4 @@ this is just my own coding chalenge:
 - day 2: implement linked-list by javascrip
 - day 3: try init function JS
 - day 4: explore JavaScript promises and async/await
+- day 5:
