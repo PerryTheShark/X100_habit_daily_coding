@@ -7,3 +7,5 @@ this is just my own coding chalenge:
 - day 4: explore JavaScript promises and async/await
 - day 5: test markdown script
 - day 6: try a leet code test.
+- day 7: leetcode problem https://leetcode.com/problems/plus-one/submissions/1455383134/?envType=study-plan-v2&envId=top-interview-150
+- day 8: may be you should learn basic JS first
