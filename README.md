@@ -9,3 +9,5 @@ this is just my own coding chalenge:
 - day 6: try a leet code test.
 - day 7: leetcode problem https://leetcode.com/problems/plus-one/submissions/1455383134/?envType=study-plan-v2&envId=top-interview-150
 - day 8: may be you should learn basic JS first
+- day 9: about something basic JS object, bla bla
+- day 10: https://leetcode.com/problems/powx-n/submissions/1458310592/?envType=study-plan-v2&envId=top-interview-150
