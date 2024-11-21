@@ -11,3 +11,4 @@ this is just my own coding chalenge:
 - day 8: may be you should learn basic JS first
 - day 9: about something basic JS object, bla bla
 - day 10: https://leetcode.com/problems/powx-n/submissions/1458310592/?envType=study-plan-v2&envId=top-interview-150
+- day 11: https://leetcode.com/problems/climbing-stairs/submissions/1459285060/?envType=study-plan-v2&envId=top-interview-150
