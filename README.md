@@ -16,3 +16,5 @@ this is just my own coding chalenge:
 - day 13: https://leetcode.com/problems/number-of-1-bits/?envType=study-plan-v2&envId=top-interview-150
 - day 14: https://leetcode.com/problems/sqrtx/?envType=study-plan-v2&envId=top-interview-150
 - day 15: https://leetcode.com/problems/summary-ranges/submissions/1462445951/?envType=study-plan-v2&envId=top-interview-150
+- day 16:
+- day 17: https://leetcode.com/problems/two-sum/?envType=study-plan-v2&envId=top-interview-150
