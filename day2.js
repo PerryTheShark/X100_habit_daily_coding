@@ -187,9 +187,6 @@ let ll = new LinkedList();
 // returns true
 console.log(ll.isEmpty());
 
-// adding element to the list
-ll.add(10);
-
 // prints 10
 ll.printList();
 
